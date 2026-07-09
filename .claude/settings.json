@@ -12,7 +12,8 @@
       "Bash(python3 -c \"import nbclient, nbconvert; print\\('nbclient', nbclient.__version__\\); print\\('nbconvert', nbconvert.__version__\\)\")",
       "Bash(python3 -)",
       "Bash(ls -la)",
-      "Bash(cat MEMORY.md)"
+      "Bash(cat MEMORY.md)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }
